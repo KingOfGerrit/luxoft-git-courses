@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
     qDebug() << "Hello world!b3";
 
     //--full-history with parent rewriting
-    //--full-history with parent rewriting
+    //--full-history with parent rewriting2
 
 
     return a.exec();
