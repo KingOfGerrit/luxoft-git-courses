@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
     //--full-history with parent rewriting1
 
     qDebug() << "rebase1";
+    qDebug() << "rebase2";
 
     return a.exec();
 }
