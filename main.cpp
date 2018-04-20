@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
     qDebug() << "rebase4";
     qDebug() << "rebase5";
     qDebug() << "rebase6";
-    qDebug() << "rebase7";
+    qDebug() << "rebase9";
     qDebug() << "rebase10";
     qDebug() << "rebase11";
     qDebug() << "rebase12";
