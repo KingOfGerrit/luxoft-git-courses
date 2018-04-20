@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
     qDebug() << "rebase2";
 
     qDebug() << "rebase3";
+    qDebug() << "rebase4";
 
     return a.exec();
 }
