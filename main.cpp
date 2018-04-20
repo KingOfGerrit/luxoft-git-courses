@@ -22,6 +22,8 @@ int main(int argc, char *argv[])
     qDebug() << "rebase3";
     qDebug() << "rebase4";
     qDebug() << "rebase5";
+    qDebug() << "rebase6";
+
 
     return a.exec();
 }
